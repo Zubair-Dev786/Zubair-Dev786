@@ -29,6 +29,7 @@ My long-term goal is to grow into a professional software developer, progress to
 `Git` `GitHub` `Visual Studio Code`
 
 **Currently Learning**
+
 Advanced JavaScript · Modern Front-End Development · Problem Solving · Web Performance
 
 ---
