@@ -1,16 +1,14 @@
+<div align="center">
+
 # Hi, I'm Zubair Ahmed 👋
 
 ### Aspiring Front-End Developer
 
-Building Real-World Projects · Focused on Modern Web Development
+**Building Real-World Projects · Focused on Modern Web Development**
 
-<p>
-  <a href="https://github.com/Zubair-Dev786">
-    <img src="https://img.shields.io/badge/GitHub-Zubair--Dev786-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
+</div>
 
----
+<br>
 
 ## 👨‍💻 About Me
 
@@ -18,56 +16,67 @@ I started my journey in web development as a practical way to learn programming 
 
 My long-term goal is to grow into a professional software developer, progress toward Full-Stack Development, and eventually explore Artificial Intelligence.
 
----
+<br>
 
 ## 🛠️ Tech Stack
 
-### Front-End
+<table>
+<tr>
+<td valign="top" width="33%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+**Front-End**
+<br><br>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
-### Libraries & UI Tools
+</td>
+<td valign="top" width="33%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=bootstrap" />
-</p>
-
+**Libraries & UI**
+<br><br>
+<img src="https://skillicons.dev/icons?i=bootstrap" />
+<br>
 `Animate.css` · `Font Awesome` · `Google Fonts`
 
-### Development Tools
+</td>
+<td valign="top" width="33%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+**Tools**
+<br><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-### Currently Learning
+</td>
+</tr>
+</table>
 
-**Advanced JavaScript · Modern Front-End Development · Problem Solving · Web Performance**
+**Currently Learning:**
 
----
+Advanced JavaScript · Modern Front-End Development · Problem Solving · Web Performance
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zubair-Dev786&show_icons=true&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zubair-Dev786&layout=compact&hide_border=true" height="165" />
-</p>
-
----
+<br>
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ### ✈️ Travel Agency Website
 
-Responsive landing page built around structured layouts, section-based content organization, and animated UI transitions.
+Responsive landing page focused on structured layouts, organized sections, and animated UI transitions.
 
 `HTML` `CSS` `JavaScript` `Animate.css`
 
-[🌐 Live Demo](https://zubair-dev786.github.io/Travel-Agency-Website/) · [💻 Source Code](https://github.com/Zubair-Dev786/Travel-Agency-Website)
+<hr>
 
----
+<p align="center">
+<a href="https://zubair-dev786.github.io/Travel-Agency-Website/"><kbd>&nbsp;→ Explore Website&nbsp;</kbd></a>
+<a href="https://github.com/Zubair-Dev786/Travel-Agency-Website"><kbd>&nbsp;→ View Source&nbsp;</kbd></a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 💄 Cosmetics Website
 
@@ -75,39 +84,73 @@ Product-focused responsive website with structured sections, consistent typograp
 
 `HTML` `CSS` `JavaScript` `Google Fonts`
 
-[🌐 Live Demo](https://zubair-dev786.github.io/Cosmetics-Website/) · [💻 Source Code](https://github.com/Zubair-Dev786/Cosmetics-Website)
+<hr>
 
----
+<p align="center">
+<a href="https://zubair-dev786.github.io/Cosmetics-Website/"><kbd>&nbsp;→ Visit Website&nbsp;</kbd></a>
+<a href="https://github.com/Zubair-Dev786/Cosmetics-Website"><kbd>&nbsp;→ View Source&nbsp;</kbd></a>
+</p>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🍽️ Restaurant Website
 
-Multi-section responsive website built with a consistent design system and structured page flow.
+Multi-section responsive website built with a consistent visual structure and clear page flow.
 
 `HTML` `CSS` `JavaScript` `Bootstrap`
 
-[🌐 Live Demo](https://zubair-dev786.github.io/Restaurant-Website/) · [💻 Source Code](https://github.com/Zubair-Dev786/Restaurant-Website)
+<hr>
 
----
+<p align="center">
+<a href="https://zubair-dev786.github.io/Restaurant-Website/"><kbd>&nbsp;→ Explore Website&nbsp;</kbd></a>
+<a href="https://github.com/Zubair-Dev786/Restaurant-Website"><kbd>&nbsp;→ View Source&nbsp;</kbd></a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 📝 Todo List App
 
-Task management app built to practice core JavaScript logic — adding, updating, and deleting tasks through direct DOM manipulation.
+Task management app built to practice JavaScript logic, DOM manipulation, and task operations.
 
 `HTML` `CSS` `JavaScript`
 
-[🌐 Live Demo](https://zubair-dev786.github.io/Todo-list-App/) · [💻 Source Code](https://github.com/Zubair-Dev786/Todo-list-App)
+<hr>
 
----
+<p align="center">
+<a href="https://zubair-dev786.github.io/Todo-list-App/"><kbd>&nbsp;→ Open App&nbsp;</kbd></a>
+<a href="https://github.com/Zubair-Dev786/Todo-list-App"><kbd>&nbsp;→ View Source&nbsp;</kbd></a>
+</p>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🕐 Digital Clock
 
-Real-time digital clock built with JavaScript, using `Date` objects and interval-based DOM updates.
+Real-time digital clock built with JavaScript using `Date` objects and interval-based DOM updates.
 
 `HTML` `CSS` `JavaScript`
 
-[🌐 Live Demo](https://zubair-dev786.github.io/Digital-Clock/) · [💻 Source Code](https://github.com/Zubair-Dev786/Digital-Clock)
+<hr>
 
----
+<p align="center">
+<a href="https://zubair-dev786.github.io/Digital-Clock/"><kbd>&nbsp;→ View Clock&nbsp;</kbd></a>
+<a href="https://github.com/Zubair-Dev786/Digital-Clock"><kbd>&nbsp;→ View Source&nbsp;</kbd></a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 📊 Grade Calculator
 
@@ -115,9 +158,19 @@ Interactive calculator focused on input handling, validation, conditional logic,
 
 `HTML` `CSS` `JavaScript`
 
-[🌐 Live Demo](https://zubair-dev786.github.io/Grade-Calculator-V2/) · [💻 Source Code](https://github.com/Zubair-Dev786/Grade-Calculator-V2)
+<hr>
 
----
+<p align="center">
+<a href="https://zubair-dev786.github.io/Grade-Calculator-V2/"><kbd>&nbsp;→ Try Calculator&nbsp;</kbd></a>
+<a href="https://github.com/Zubair-Dev786/Grade-Calculator-V2"><kbd>&nbsp;→ View Source&nbsp;</kbd></a>
+</p>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🎮 Tic-Tac-Toe
 
@@ -125,20 +178,36 @@ Two-player browser game built to practice JavaScript game logic, state tracking,
 
 `HTML` `CSS` `JavaScript`
 
-[🌐 Live Demo](https://zubair-dev786.github.io/Tic-Tac-Toe-Game/) · [💻 Source Code](https://github.com/Zubair-Dev786/Tic-Tac-Toe-Game/tree/main)
+<hr>
 
----
+<p align="center">
+<a href="https://zubair-dev786.github.io/Tic-Tac-Toe-Game/"><kbd>&nbsp;→ Play Game&nbsp;</kbd></a>
+<a href="https://github.com/Zubair-Dev786/Tic-Tac-Toe-Game/tree/main"><kbd>&nbsp;→ View Source&nbsp;</kbd></a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 ## 🎯 Direction
 
 **Front-End Development → Full-Stack Development → Software Development → Artificial Intelligence**
 
----
+<br>
+
+<div align="center">
 
 ## 📫 Connect
 
-<p>
-  <a href="https://github.com/Zubair-Dev786">
-    <img src="https://img.shields.io/badge/GitHub-Zubair--Dev786-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/Zubair-Dev786">
+  <img src="https://img.shields.io/badge/GitHub-Zubair--Dev786-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</div>
