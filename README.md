@@ -4,7 +4,7 @@
 
 ### Aspiring Front-End Developer
 
-**Building Real-World Projects · Focused on Modern Web Development**
+**Building Real-World Projects · Focused on Modern Software Development**
 
 </div>
 
