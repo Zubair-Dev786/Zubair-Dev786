@@ -17,17 +17,19 @@ My long-term goal is to grow into a professional software developer, progress to
 ## 🛠️ Tech Stack
 
 **Front-End**
+
 `HTML5` `CSS3` `JavaScript (ES6+)`
 
 **Libraries & UI Tools**
+
 `Bootstrap` `Animate.css` `Font Awesome` `Google Fonts`
 
 **Development Tools**
+
 `Git` `GitHub` `Visual Studio Code`
 
 **Currently Learning**
-
---Advanced JavaScript · Modern Front-End Development · Problem Solving · Web Performance
+Advanced JavaScript · Modern Front-End Development · Problem Solving · Web Performance
 
 ---
 
